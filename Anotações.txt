@@ -1,0 +1,7 @@
+git clone 
+git add . ou git add -A/-a
+git status 
+git commit -m "" (-m "" -> é para adicionar um comentario)
+git push origin main
+ctrl l
+
